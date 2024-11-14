@@ -30,7 +30,7 @@
 			</build>
 		</profile>
 		<profile>
-			<id>BE</id>
+			<id>Be</id>
 			<build>
 				<plugins>
 					<plugin>
